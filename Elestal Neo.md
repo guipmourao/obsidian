@@ -39,3 +39,27 @@ Soja — sem pico em jun/jul (zerado nesses meses), gasto concentrado em jan-abr
 Hortifrúti — aqui está o pico real: R$8.333,46 só em julho, 66% da verba do crop inteiro num mês só. Motivo foi atraso de criativo, não estouro: pedi as peças de remarketing em 29/06, recebi da Natalia em 07/07, e só consegui ativar em 27/07 — quase um mês entre verba liberada e criativo pronto. Saldo hoje: R$654,91 (94,8% utilizado), campanha segue ativa.
 
 Resumo: nenhuma das 3 culturas estourou o orçamento aprovado. O pico de jun/jul/ago é concentração de gasto — atraso de criativo em HF, compressão de janela em Algodão — não descontrole de verba.
+
+
+
+Hortifrúti — só essa cultura, sem misturar com as outras:
+
+Janela oficial: Abril–Novembro (confirmada no plano).
+
+Primeira ativação real (com investimento): Junho. A planilha mostra R$0,00 de gasto em Abril e Maio — nada rodou nesses dois meses, apesar da janela já estar aberta desde Abril. O primeiro dinheiro gasto aparece em Junho: R$1.390,53 (Google Display) + R$750,70 (Meta) = R$2.141,23.
+
+Existe uma tentativa de ativação em 27/05 (pedido da Heloisa, atendimento, por reativação urgente "mesmo com criativos antigos") — mas isso não virou gasto relevante até junho, ou seja, entre a janela abrir (Abril) e o primeiro real veiculado com spend (Junho), passaram ~2 meses parada.
+
+Por que atrasou o criativo, na sequência exata:
+1. 27/05 — atendimento pede reativação urgente, mas só tinha criativo antigo disponível (nada novo pronto).
+2. 02/06 — subo um criativo genérico de Google pra pelo menos rodar algo, reaproveitado das 3 culturas (não era peça específica de HF).
+3. 18/06 — atendimento cobra resultado (ainda de maio).
+4. 19/06 — alerta interno na daily: produto atrasado em OKR de engajamento e views.
+5. 26/06 — identifico que nem a dash refletia HF corretamente por cultura; decido formalizar pedido de criativo novo.
+6. 29/06 — formalizo oficialmente o pedido de peças (verba já estava liberada, só faltava material).
+7. 07/07 — recebo as demandas de criação da Natalia (~9 dias depois do pedido formal).
+8. 27/07 — ativo o remarketing (a maior fatia do gasto: R$5.353 em Meta só em julho) — quase um mês entre receber o material (07/07) e efetivamente subir a campanha em plataforma.
+
+Resumo da causa raiz: não foi um atraso único — foi uma cadeia: peça específica de HF nunca existiu desde o início da janela (Abril), forçou reaproveitar material genérico em junho pra não ficar 100% parado, e o criativo definitivo (que gerou o grosso do gasto de julho) só saiu depois de um ciclo de pedido→recebimento→ativação que levou de 29/06 a 27/07.
+
+Isso é o que está registrado no meu log (Runrun/Teams). Quer que eu confirme a data exata da "primeira ativação" (27/05) direto na task do Runrun, pra ter o número da task como evidência, antes de eu reescrever a resposta pro Castilho só com HF isolado?
